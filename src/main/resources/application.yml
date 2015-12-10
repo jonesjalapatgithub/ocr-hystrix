@@ -1,3 +1,5 @@
+server:
+  port: 8383
 eureka:
   client:
     serviceUrl:
